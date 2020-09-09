@@ -2,6 +2,10 @@
 
 My name is Hugo Mafra from Brazil.
 
+CHKDSK /R
+SFC /SCANNOW
+DISM /ONLINE /CLEANUP-IMAGE /RESTOREHEALTH
+
 <!--
 **Hugorc10/Hugorc10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
