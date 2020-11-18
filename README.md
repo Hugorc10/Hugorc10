@@ -2,7 +2,7 @@
 
 My name is Hugo Mafra from Brazil.
 
-Primeiro configure a fonte do terminal que você ira utilizar. No MacOS, dentro de "Profiles" troque a fonte pela fonte "Fira Code - Retina - 14". Agora troque o tema que você irá utilizar, recomendo utilizar o tema Dracula https://draculatheme.com/terminal/.
+Primeiro configure a fonte do terminal que você ira utilizar. Antes de iniciar a configuração do Spaceship precisamos instalar a fonte Fira Code que possui diversos ícones dos quais são utilizados nesse tema. Baixe o zip da última versão da fonte disponível aqui: https://github.com/tonsky/FiraCode/releases. No MacOS, dentro de "Profiles" troque a fonte pela fonte "Fira Code - Retina - 14". Agora troque o tema que você irá utilizar, recomendo utilizar o tema Dracula https://draculatheme.com/terminal/.
 Depois de instalar o tema, instale o 'Oh my Zsh' https://ohmyz.sh/.
 Vamos instalar um tema para o 'Oh my Zsh' que é o Spaceship ZSH https://github.com/denysdovhan/spaceship-prompt.
 
