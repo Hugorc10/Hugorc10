@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
 
 <h2>My name is Hugo Mafra. I'm a Developer 🚀 from Brazil.</h2>
 
