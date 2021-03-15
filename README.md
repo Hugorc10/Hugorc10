@@ -2,6 +2,8 @@
 
 <h2>My name is Hugo Mafra. I'm a Developer 🚀 from Brazil.</h2>
 
+<img align="right" width="400px" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
+
 <p>
 I am a bachelor's degree student in Computer Science 🎓 from the Universidade Estaduak do Sudoeste da Bahia - UESB 🏛. I am a passionate student who is always willing to learn and work with technologies and domains 💡. I love to explore new technologies and take advantage of them to solve real life problems ✨.
 I am currently working on Web Development 🕸️ and always wanting to improve!
