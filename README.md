@@ -25,3 +25,5 @@ I am currently working on Web Development 🕸️ and always wanting to improve!
 </br>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugorc10)](https://github.com/Hugorc10/github-readme-stats)
