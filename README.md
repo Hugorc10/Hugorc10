@@ -19,7 +19,7 @@ I am currently working on Web Development 🕸️ and always wanting to improve!
 - 📫 How to reach me: hugorc10@gmail.com
 - ⚡ Fun fact: being perfectionist is not always a good thing
 
-<a href="https://github.com/igor-cotrim/">
+<a href="https://github.com/Hugorc10/">
     <img width="50%" align="right" alt="Igor's github stats" src="https://github-readme-stats.vercel.app/api?username=igor-cotrim&show_icons=true&hide_border=true" />
  </a>
   
