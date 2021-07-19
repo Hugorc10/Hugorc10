@@ -27,8 +27,7 @@ I am currently working on Web Development 🕸️ and always wanting to improve!
 
 ### ⚒&nbsp;&nbsp;&nbsp;**Languages and Tools:** 
 <br>
-<img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="" title="react.js" src="https://user-images.githubusercontent.com/72813560/107150067-ba53b600-693a-11eb-87d7-fc461d1d75d1.png" height="24">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
