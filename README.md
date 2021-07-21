@@ -11,13 +11,13 @@ I am currently working on Web Development 🕸️ and always wanting to improve!
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-- 🔭 I’m currently working on Java and JavaScript
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on open projects
-- 🤔 I’m looking for help with how to work better with Threads
-- 💬 Ask me about anything, I like to help
-- 📫 How to reach me: hugorc10@gmail.com
-- ⚡ Fun fact: being perfectionist is not always a good thing
+- 🔭  I’m currently working on Java and JavaScript
+- 🌱  I’m currently learning Flutter
+- 👯  I’m looking to collaborate on open projects
+- 🤔  I’m looking for help with how to work better with Threads
+- 💬  Ask me about anything, I like to help
+- 📫  How to reach me: hugorc10@gmail.com
+- ⚡  Fun fact: being perfectionist is not always a good thing
 
 <a href="https://github.com/Hugorc10/">
     <img width="50%" align="right" alt="Igor's github stats" src="https://github-readme-stats.vercel.app/api?username=Hugorc10&show_icons=true&hide_border=true" />
@@ -34,6 +34,8 @@ I am currently working on Web Development 🕸️ and always wanting to improve!
  <img align="left" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="left" alt="Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
  <img align="left" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ </br>
+ </br>
  <img align="left" alt="Apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
 </div>
 
