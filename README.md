@@ -5,8 +5,7 @@
 <img align="right" width="400px" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
 
 <p>
- I am a bachelor's degree student in Computer Science 🎓 from the Universidade Estaduak do Sudoeste da Bahia - UESB 🏛. I am a passionate student who is always   willing to learn and work with technologies and domains 💡. I love to explore new technologies and take advantage of them to solve real life problems ✨.
- I am currently working on mobile development and always wanting to improve!
+ I am a bachelor's degree student in Computer Science 🎓 from the Universidade Estadual do Sudoeste da Bahia - UESB 🏛. I am a passionate student who is always   willing to learn and work with technologies and domains 💡. I love to explore new technologies and take advantage of them to solve real life problems ✨. I am currently working on mobile development and always wanting to improve!
 </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
