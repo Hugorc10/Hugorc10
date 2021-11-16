@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 
-<h2>My name is Hugo Mafra. I'm a Developer 🚀 from Brazil.</h2>
+<h2>My name is Hugo. I'm a Developer 🚀 from Brazil.</h2>
 
 <img align="right" width="400px" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
 
