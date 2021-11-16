@@ -10,16 +10,17 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-- 🔭  I’m currently working on Java and JavaScript
-- 🌱  I’m currently learning Flutter
-- 👯  I’m looking to collaborate on open projects
-- 🤔  I’m looking for help with how to work better with Threads
+- 🔭  I'm currently working on Java and JavaScript
+- 👋  I've experience with intellij IDEA, Android Studio and Xcode.
+- 🌱  I'm currently learning Flutter
+- 👯  I'm looking to collaborate on open projects
+- 🤔  I'm looking for help with how to work better with Threads
 - 💬  Ask me about anything, I like to help
 - 📫  How to reach me: hugorc10@gmail.com
 - ⚡  Fun fact: being perfectionist is not always a good thing
 
 <a href="https://github.com/Hugorc10/">
-    <img width="50%" align="right" alt="Igor's github stats" src="https://github-readme-stats.vercel.app/api?username=Hugorc10&show_icons=true&hide_border=true" />
+    <img width="50%" align="right" alt="Hugo's github stats" src="https://github-readme-stats.vercel.app/api?username=Hugorc10&show_icons=true&hide_border=true" />
  </a>
 
 ### ⚒&nbsp;&nbsp;&nbsp;**Languages and Tools:** 
