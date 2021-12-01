@@ -10,14 +10,14 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-- 🔭  I'm currently working on Java and JavaScript
-- 👋  I've experience with intellij IDEA, Android Studio and Xcode.
-- 🌱  I'm currently learning Flutter
+- 🔭  I'm currently working on Java and JavaScrip.
+- 👋  I've experience with intellij IDEA, Visual Studio Code, Android Studio and Xcode IDE`s.
+- 🌱  I'm currently learning JavaScript
 - 👯  I'm looking to collaborate on open projects
-- 🤔  I'm looking for help with how to work better with Threads
+- 🤔  I'm looking for help with how to work better with objectives
 - 💬  Ask me about anything, I like to help
 - 📫  How to reach me: hugorc10@gmail.com
-- ⚡  Fun fact: being perfectionist is not always a good thing
+- ⚡  Always remember: done is better than perfect
 
 <a href="https://github.com/Hugorc10/">
     <img width="50%" align="right" alt="Hugo's github stats" src="https://github-readme-stats.vercel.app/api?username=Hugorc10&show_icons=true&hide_border=true" />
