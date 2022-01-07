@@ -10,13 +10,13 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-- 🔭  I'm currently working on Java and JavaScrip.
-- 👋  I've experience with intellij IDEA, Visual Studio Code, Android Studio and Xcode IDE`s.
+- 🔭  I'm currently working on Java, HTML, CSS and JavaScript
+- 👋  I've experience with intellij IDEA, Visual Studio Code, Android Studio and Xcode IDEs
 - 🌱  I'm currently learning JavaScript
 - 👯  I'm looking to collaborate on open projects
-- 🤔  I'm looking for help with how to work better with objectives
+- 🤔  I'm looking for help with how to work better with objects
 - 💬  Ask me about anything, I like to help
-- 📫  How to reach me: hugorc10@gmail.com
+- 📫  How to reach me: hugorc10@gmail.com or hugorc10@hotmail.com
 - ⚡  Always remember: done is better than perfect
 
 <a href="https://github.com/Hugorc10/">
