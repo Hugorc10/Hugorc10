@@ -1,8 +1,18 @@
-<h1>Hi there 👋</h1>
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="https://discord.gg">
+  <img align="left" alt="Hugo's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/hugo_rc10">
+  <img align="left" alt="Hugo's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/hugo-teixeira-mafra/">
+  <img align="left" alt="Hugo's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br />
 <h2>My name is Hugo. I'm a Developer 🚀 from Brazil.</h2>
 
-<img align="right" width="400px" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
+<img align="right" width="500" alt="GIF" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
 
 <p>
  I am a bachelor's degree student in Computer Science 🎓 from the Universidade Estadual do Sudoeste da Bahia (UESB). I am a passionate student who is always   willing to learn and work with technologies and domains 💡. I love to explore new technologies and take advantage of them to solve real life problems ✨. I am currently working on mobile development and always wanting to improve!
@@ -11,7 +21,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 - 🔭  I'm currently working on Java, HTML, CSS and JavaScript.
-- 👨🏽‍💻. I've experience with intellij IDEA, Visual Studio Code, Android Studio and Xcode IDEs.
+- 👨🏽‍💻  I've experience with intellij IDEA, Visual Studio Code, Android Studio and Xcode IDEs.
 - 💻  I've experience with Linux, MacOs and Windows operational systems.
 - 🌱  I'm currently learning JavaScript.
 - 👯  I'm looking to collaborate on open projects.
@@ -20,26 +30,31 @@
 - 📫  How to reach me: hugorc10@gmail.com or hugorc10@hotmail.com.
 - ⚡  Always remember: done is better than perfect.
 
-<a href="https://github.com/Hugorc10/">
+<!-- <a href="https://github.com/Hugorc10/">
     <img width="50%" align="right" alt="Hugo's github stats" src="https://github-readme-stats.vercel.app/api?username=Hugorc10&show_icons=true&hide_border=true" />
- </a>
+ </a> -->
 
 ### ⚒&nbsp;&nbsp;&nbsp;**Languages and Tools:** 
 <div style="display: inline_block">
- <img align="left" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="left" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img align="left" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="left" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="left" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="left" alt="Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
- <img align="left" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <br>
- </br>
- <img align="left" alt="Apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
+  <img align="left" height="30"alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+ <img align="left" height="30" alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ <img align="left" height="30" alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="left" height="30" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="left" height="30" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="left" height="30" alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ <img align="left" height="30" alt="Android" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+ <img align="left" height="30" alt="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"> 
+ <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+ <br />
 </div>
 
-<br>
-</br>
+<br />
 
-<img align="left" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-<br>I love connecting with different people.</br> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hugorc10&show_icons=true&theme=gotham" alt="Hugorc10" />
+
+<img align="left" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<br />
+I love connecting with different people, so if you want to say hi, <b>I'll be happy to meet you more!</b> :)
+
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hugorc10&show_icons=true&theme=gotham" alt="Hugorc10" /> -->
+
