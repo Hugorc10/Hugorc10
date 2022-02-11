@@ -50,12 +50,17 @@
 
 <br />
 
-<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=Hugorc10&show_icons=true&theme=gotham" alt="Hugorc10" />
-<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugorc10&layout=compact&theme=vue-dark" />
-
-<img align="left" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<div>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Hugorc10&show_icons=true&theme=gotham" alt="Hugorc10" />
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugorc10&layout=compact&theme=vue-dark" />
+</div>
 <br />
-I love connecting with different people, so if you want to say hi, <b>I'll be happy to meet you more!</b> :)
+<div>
+  <img align="left" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="10%" />
+  <br />
+  <br />
+  I love connecting with different people, so if you want to say hi, <b>I'll be happy to meet you more!</b> :)
+</div>
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hugorc10&show_icons=true&theme=gotham" alt="Hugorc10" /> -->
 
