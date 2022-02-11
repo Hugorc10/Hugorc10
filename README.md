@@ -50,7 +50,8 @@
 
 <br />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hugorc10&show_icons=true&theme=gotham" alt="Hugorc10" />
+<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=Hugorc10&show_icons=true&theme=gotham" alt="Hugorc10" />
+<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugorc10&layout=compact&theme=vue-dark" />
 
 <img align="left" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <br />
