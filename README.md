@@ -43,8 +43,9 @@
  <img align="left" height="30" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="left" height="30" alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img align="left" height="30" alt="Android" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
- <img align="left" height="30" alt="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"> 
- <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+ <img align="left" height="30" alt="Linux" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<!--  <img align="left" height="30" alt="Linux" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/macos/macos-original.svg"> -->
+ <img align="left" height="30" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <br />
 </div>
 
