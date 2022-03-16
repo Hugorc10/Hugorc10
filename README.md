@@ -23,7 +23,7 @@
 - 🔭  I'm currently working on Java, HTML, CSS and JavaScript.
 - 👨🏽‍💻  I've experience with intellij IDEA, Visual Studio Code, Android Studio and Xcode IDEs.
 - 💻  I've experience with Linux, MacOs and Windows operational systems.
-- 🌱  I'm currently learning JavaScript.
+- 🌱  I'm currently learning Web Developoment.
 - 👯  I'm looking to collaborate on open projects.
 - 🤔  I'm looking for help with how to work better with objects.
 - 💬  Ask me about anything, I like to help.
