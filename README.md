@@ -52,8 +52,8 @@
 <br />
 
 <div>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Hugorc10&show_icons=true&theme=gotham" alt="Hugorc10" />
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugorc10&layout=compact&theme=vue-dark" />
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Hugorc10&show_icons=true&theme=gotham" alt="Hugorc10" />
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugorc10&layout=compact&theme=vue-dark" />
 </div>
 <br />
 <div>
