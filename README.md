@@ -15,15 +15,15 @@
 <img align="right" width="500" alt="GIF" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
 
 <p>
- I am a bachelor's degree student in Computer Science 🎓 from the Universidade Estadual do Sudoeste da Bahia (UESB). I am a passionate student who is always   willing to learn and work with technologies and domains 💡. I love to explore new technologies and take advantage of them to solve real life problems ✨. I am currently working on mobile development and always wanting to improve!
+ I am a bachelor's degree student in Computer Science 🎓 from the Universidade Estadual do Sudoeste da Bahia (UESB). I am a passionate student who is always willing to learn and work with technologies and domains 💡. I love to explore new technologies and take advantage of them to solve real life problems ✨. I am currently working on web development and always wanting to improve!
 </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-- 🔭  I studied Java, HTML, CSS, JavaScript and Haskell.
+- 🔭  I studied Java, HTML, CSS, SCSS, JavaScript, TypeScript and Haskell.
 - 👨🏽‍💻  I've experience with intellij IDEA, Visual Studio Code, Android Studio and Xcode IDEs.
 - 💻  I've experience with Linux, MacOs and Windows operational systems.
-- 🌱  I'm currently learning React.
+- 🌱  I'm currently learning NodeJS.
 - 👯  I'm looking to collaborate on open projects.
 - 🤔  I'm looking for help with how to work better with objects.
 - 💬  Ask me about anything, I like to help.
