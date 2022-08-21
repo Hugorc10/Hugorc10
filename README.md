@@ -12,7 +12,7 @@
 <br />
 <h2>My name is Hugo. I'm a Developer 🚀 from Brazil.</h2>
 
-<img align="right" width="500" alt="GIF" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
+<img align="right" width="500" marginLeft="50px" alt="GIF" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
 
 <p>
  I am a bachelor's degree student in Computer Science 🎓 from the Universidade Estadual do Sudoeste da Bahia (UESB). I am a passionate student who is always willing to learn and work with technologies and domains 💡. I love to explore new technologies and take advantage of them to solve real life problems ✨. I am currently working on web development and always wanting to improve!
@@ -20,7 +20,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-- 🔭  I studied Java, HTML, CSS, SCSS, JavaScript, TypeScript and Haskell.
+- 🔭  I studied HTML, CSS, SCSS, JavaScript, TypeScript, Java and Haskell.
 - 👨🏽‍💻  I've experience with intellij IDEA, Visual Studio Code, Android Studio and Xcode IDEs.
 - 💻  I've experience with Linux, MacOs and Windows operational systems.
 - 🌱  I'm currently learning NodeJS.
