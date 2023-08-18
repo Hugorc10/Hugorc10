@@ -20,10 +20,10 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-- 🔭  I studied HTML, CSS, SCSS, JavaScript, TypeScript, Java and Haskell.
+- 🔭  I studied HTML, CSS, SCSS, JavaScript, TypeScript, Java, Haskell and AWS.
 - 👨🏽‍💻  I've experience with intellij IDEA, Visual Studio Code, Android Studio and Xcode IDEs.
 - 💻  I've experience with Linux, MacOs and Windows operational systems.
-- 🌱  I'm currently learning NodeJS.
+- 🌱  I'm currently learning AWS SAM.
 - 👯  I'm looking to collaborate on open projects.
 - 🤔  I'm looking for help with how to work better with objects.
 - 💬  Ask me about anything, I like to help.
