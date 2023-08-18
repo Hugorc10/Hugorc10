@@ -4,10 +4,10 @@
   <img align="left" alt="Hugo's Discord" width="22px" src="https://images-eds-ssl.xboxlive.com/image?url=Q_rwcVSTCIytJ0KOzcjWTYl.n38D8jlKWXJx7NRJmQKBAEDCgtTAQ0JS02UoaiwRCHTTX1RAopljdoYpOaNfVf5nBNvbwGfyR5n4DAs0DsOwxSO9puiT_GgKqinHT8HsW8VYeiiuU1IG3jY69EhnsQ--&format=source" />
 </a>
 <a href="https://twitter.com/hugo_rc10">
-  <img align="left" alt="Hugo's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Hugo's Twitter" width="22px" src="https://img.freepik.com/icones-gratis/twitter_318-674515.jpg" />
 </a>
 <a href="https://www.linkedin.com/in/hugo-teixeira-mafra/">
-  <img align="left" alt="Hugo's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Hugo's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />
 </a>
 <br />
 <h2>My name is Hugo. I'm a Developer 🚀 from Brazil.</h2>
