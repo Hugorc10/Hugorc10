@@ -23,7 +23,7 @@
 - 🔭  I studied HTML, CSS, SCSS, JavaScript, TypeScript, Java, Haskell and AWS.
 - 👨🏽‍💻  I've experience with intellij IDEA, Visual Studio Code, Android Studio and Xcode IDEs.
 - 💻  I've experience with Linux, MacOs and Windows operational systems.
-- 🌱  I'm currently learning AWS Serverless.
+- 🌱  I'm currently learning Python.
 - 👯  I'm looking to collaborate on open projects.
 - 🤔  I'm looking for help with how to work better with objects.
 - 💬  Ask me about anything, I like to help.
@@ -42,6 +42,7 @@
  <img align="left" height="30" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="left" height="30" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="left" height="30" alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="left" height="30" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="left" height="30" alt="Android" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
  <img align="left" height="30" alt="Linux" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <!--  <img align="left" height="30" alt="Linux" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/macos/macos-original.svg"> -->
