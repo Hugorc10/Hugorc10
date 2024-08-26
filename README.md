@@ -20,10 +20,10 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-- 🔭  I studied HTML, CSS, SCSS, JavaScript, TypeScript, Java, Haskell and AWS.
+- 🔭  I studied HTML, CSS, SCSS, JavaScript, TypeScript, Java, Python, Haskell and AWS.
 - 👨🏽‍💻  I've experience with intellij IDEA, Visual Studio Code, Android Studio and Xcode IDEs.
 - 💻  I've experience with Linux, MacOs and Windows operational systems.
-- 🌱  I'm currently learning Python.
+- 🌱  I'm currently learning Django.
 - 👯  I'm looking to collaborate on open projects.
 - 🤔  I'm looking for help with how to work better with objects.
 - 💬  Ask me about anything, I like to help.
