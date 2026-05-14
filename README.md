@@ -1,68 +1,86 @@
-# Hey there
+# Hey there 👋
 
-<a href="https://discord.gg">
-  <img align="left" alt="Hugo's Discord" width="22px" src="https://images-eds-ssl.xboxlive.com/image?url=Q_rwcVSTCIytJ0KOzcjWTYl.n38D8jlKWXJx7NRJmQKBAEDCgtTAQ0JS02UoaiwRCHTTX1RAopljdoYpOaNfVf5nBNvbwGfyR5n4DAs0DsOwxSO9puiT_GgKqinHT8HsW8VYeiiuU1IG3jY69EhnsQ--&format=source" />
-</a>
-<a href="https://twitter.com/hugo_rc10">
-  <img align="left" alt="Hugo's Twitter" width="22px" src="https://img.freepik.com/icones-gratis/twitter_318-674515.jpg" />
-</a>
-<a href="https://www.linkedin.com/in/hugo-teixeira-mafra/">
-  <img align="left" alt="Hugo's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />
-</a>
-<br />
 <h2>My name is Hugo. I'm a Developer 🚀 from Brazil.</h2>
 
-<img align="right" width="500" marginLeft="50px" alt="GIF" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
-
 <p>
- I am a bachelor's degree student in Computer Science 🎓 from the Universidade Estadual do Sudoeste da Bahia (UESB). I am a passionate student who is always willing to learn and work with technologies and domains 💡. I love to explore new technologies and take advantage of them to solve real life problems ✨. I am currently working on web development and always wanting to improve!
+  I'm a Computer Science bachelor's degree student at the Universidade Estadual do Sudoeste da Bahia (UESB).
+  I'm passionate about technology, web development, and building useful solutions for real-world problems.
+  I enjoy learning new tools, improving my technical skills, and collaborating on projects that create value.
 </p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+---
 
-- 🔭  I studied HTML, CSS, SCSS, JavaScript, TypeScript, Java, Python, Haskell and AWS.
-- 👨🏽‍💻  I've experience with intellij IDEA, Visual Studio Code, Android Studio and Xcode IDEs.
-- 💻  I've experience with Linux, MacOs and Windows operational systems.
-- 🌱  I'm currently learning Django.
-- 👯  I'm looking to collaborate on open projects.
-- 🤔  I'm looking for help with how to work better with objects.
-- 💬  Ask me about anything, I like to help.
-- 📫  How to reach me: hugorc10@gmail.com or hugorc10@hotmail.com.
-- ⚡  Always remember: done is better than perfect.
+## 🌐 Connect with me
 
-<!-- <a href="https://github.com/Hugorc10/">
-    <img width="50%" align="right" alt="Hugo's github stats" src="https://github-readme-stats.vercel.app/api?username=Hugorc10&show_icons=true&hide_border=true" />
- </a> -->
+<p>
+  <a href="https://discord.gg/YOUR_INVITE_CODE" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.linkedin.com/in/hugo-teixeira-mafra/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hugorc10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-### ⚒&nbsp;&nbsp;&nbsp;**Languages and Tools:** 
-<div style="display: inline_block">
-  <img align="left" height="30"alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
- <img align="left" height="30" alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img align="left" height="30" alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="left" height="30" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="left" height="30" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="left" height="30" alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="left" height="30" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="left" height="30" alt="Android" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
- <img align="left" height="30" alt="Linux" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-<!--  <img align="left" height="30" alt="Linux" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/macos/macos-original.svg"> -->
- <img align="left" height="30" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- <br />
-</div>
+---
 
-<br />
+## 👨‍💻 About me
+
+- 🎓 Computer Science student at UESB.
+- 💻 Focused on web development and software engineering.
+- 🚀 Interested in full-stack development, backend architecture, APIs, and cloud technologies.
+- 🌱 Currently improving my skills in Django, backend development, and modern web technologies.
+- 👯 Open to collaborating on interesting open-source and learning-focused projects.
+- 💬 Always willing to help, learn, and exchange knowledge.
+- ⚡ Reminder: done is better than perfect.
+
+---
+
+## 🛠️ Languages and Tools
+
+<p>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macOS" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" />
+</p>
+
+---
+
+## ⚙️ IDEs and Tools
+
+<p>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <div>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Hugorc10&show_icons=true&theme=gotham" alt="Hugorc10" />
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugorc10&layout=compact&theme=vue-dark" />
-</div>
-<br />
-<div>
-  <img align="left" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="10%" />
-  <br />
-  <br />
-  I love connecting with different people, so if you want to say hi, <b>I'll be happy to meet you more!</b> :)
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Hugorc10&show_icons=true&theme=gotham&hide_border=true" alt="Hugo's GitHub stats" />
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugorc10&layout=compact&theme=gotham&hide_border=true" alt="Most used languages" />
 </div>
 
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hugorc10&show_icons=true&theme=gotham" alt="Hugorc10" /> -->
+---
 
+## 🤝 Let's connect
+
+<p>
+  I enjoy connecting with different people, exchanging ideas, and learning from new experiences.
+  If you want to say hi, feel free to reach out.
+</p>
