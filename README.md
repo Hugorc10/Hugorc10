@@ -3,7 +3,7 @@
 <h2>My name is Hugo. I'm a Developer 🚀 from Brazil.</h2>
 
 <p>
-  I'm a Computer Science bachelor's degree student at the Universidade Estadual do Sudoeste da Bahia (UESB).
+  I am a Computer Scientist graduated from the Universidade Estadual do Sudoeste da Bahia (UESB).
   I'm passionate about technology, web development, and building useful solutions for real-world problems.
   I enjoy learning new tools, improving my technical skills, and collaborating on projects that create value.
 </p>
@@ -13,7 +13,7 @@
 ## 🌐 Connect with me
 
 <p>
-  <a href="https://discord.gg/YOUR_INVITE_CODE" target="_blank">
+  <a href="https://discord.gg/hugorc10" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://www.linkedin.com/in/hugo-teixeira-mafra/" target="_blank">
@@ -31,7 +31,7 @@
 - 🎓 Computer Science student at UESB.
 - 💻 Focused on web development and software engineering.
 - 🚀 Interested in full-stack development, backend architecture, APIs, and cloud technologies.
-- 🌱 Currently improving my skills in Django, backend development, and modern web technologies.
+- 🌱 Currently improving my skills in Django, React Native, backend development, and modern web technologies.
 - 👯 Open to collaborating on interesting open-source and learning-focused projects.
 - 💬 Always willing to help, learn, and exchange knowledge.
 - ⚡ Reminder: done is better than perfect.
@@ -66,15 +66,6 @@
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" />
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Hugorc10&show_icons=true&theme=gotham&hide_border=true" alt="Hugo's GitHub stats" />
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugorc10&layout=compact&theme=gotham&hide_border=true" alt="Most used languages" />
-</div>
 
 ---
 
